@@ -1,0 +1,30 @@
+{
+  "name": "netbuffer",
+  "version": "0.0.2",
+  "description": "MuOnline packet encode/decoder for client/server side (old encryption)",
+  "homepage": "https://github.com/WoLfulus/node-mupacket",
+  "license": "MIT",
+  "keywords": [
+	"mu",
+    "muonline",
+    "packet",
+    "encdec",
+    "encryption",
+	"decryption",
+    "encrypt",
+	"decrypt",
+    "protocol"
+  ],
+  "author": {
+    "name": "João Francisco Biondo Trinca",
+    "email": "wolfulus@gmail.com"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WoLfulus/node-mupacket"
+  },
+  "engines": {
+    "node": ">= 0.6.14"
+  }
+}
