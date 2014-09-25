@@ -1,6 +1,6 @@
 {
-  "name": "netbuffer",
-  "version": "0.0.2",
+  "name": "mupacket",
+  "version": "0.0.1",
   "description": "MuOnline packet encode/decoder for client/server side (old encryption)",
   "homepage": "https://github.com/WoLfulus/node-mupacket",
   "license": "MIT",
